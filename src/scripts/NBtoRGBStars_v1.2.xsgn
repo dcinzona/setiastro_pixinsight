@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+PixInsight XML Code Signature Format - XSGN version 1.0
+Created with PixInsight software - https://pixinsight.com/
+-->
+<xsgn version="1.0" xmlns="http://www.pixinsight.com/xsgn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pixinsight.com/xsgn http://pixinsight.com/xsgn/xsgn-1.0.xsd">
+   <CreationTime>2024-04-26T15:56:41.482Z</CreationTime>
+   <Signature version="1.0" scriptId="NBtoRGBStars_v1.2" developerId="FranklinMarek">
+      <Timestamp>2024-04-26T15:56:41.482Z</Timestamp>
+      <CodeSignature encoding="Base64">w/1ke+EHrwTEhUTPSQgAFFRavvKvSsPa3B0DKdC7AhSdC5r0QDHzlsGlvl8gMxzW6r9Z3IIn6SPkkDWSsGiyCw==</CodeSignature>
+   </Signature>
+</xsgn>

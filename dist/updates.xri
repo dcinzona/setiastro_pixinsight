@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+      This is the repository for PixInsight scripts by setiastro.com, featuring the NB to RGB Star Combination script Statistical Stretch script and others.
+    </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.8:1.9.9">
+      <package fileName="SetiAstroScripts05.11.2024.zip" sha1="1920b392bb863f7be9951453758e988c7052f287" type="script" releaseDate="20240511">
+         <title>
+        Statistical Stretch Release V1.3.1
+      </title>
+         <description>
+            <p>
+          Update to have automatic resize of the preview and now reopens the dialog for drag and drop of the instance icon or if blue square is clicked.
+        </p>
+         </description>
+      </package>
+   </platform>
+</xri>
+<Signature developerId="FranklinMarek" timestamp="2024-05-11T21:19:35.000Z" encoding="Base64">Y1gVuHtve844bZ1ELXAwdt/gnSEA5Z39etoRyjIN7LG/AWToMU3cUi0T5urmcol5lJyZK/MHdnWYrhjxvjY8AQ==</Signature>
